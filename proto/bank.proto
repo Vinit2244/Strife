@@ -1,0 +1,93 @@
+syntax = "proto3";
+
+package bank;
+
+service Bank {
+    rpc CreateNewClient(CreateNewClientRequest) returns (CreateNewClientResponse);
+    rpc VerifyClientInfo(ClientInformationRequest) returns (ClientInformationResponse);
+    rpc FetchBalance(FetchBalanceRequest) returns (FetchBalanceResponse);
+    rpc AddBalance(AddBalanceRequest) returns (AddBalanceResponse);
+    rpc Debit(AmountTransferRequest) returns (AmountTransferResponse);
+    rpc Credit(AmountTransferRequest) returns (AmountTransferResponse);
+    rpc GetTransactions(TransactionsRequest) returns (TransactionsResponse);
+    rpc CheckClientExist(CheckClientExistRequest) returns (CheckClientExistResponse);
+}
+
+message CreateNewClientRequest {
+    string username = 1;
+    string password = 2;
+    float initial_balance = 3;
+}
+
+message CreateNewClientResponse {
+    int32 err_code = 1;
+    string text = 2;
+    string account_number = 3;
+}
+
+message ClientInformationRequest {
+    string username = 1;
+    string account_number = 2;
+    string password = 3;
+}
+
+message ClientInformationResponse {
+    bool present = 1;
+}
+
+message FetchBalanceRequest {
+    string account_number = 1;
+}
+
+message FetchBalanceResponse {
+    int32 err_code = 1;
+    string text = 2;
+    float balance = 3;
+}
+
+message AddBalanceRequest {
+    string username = 1;
+    float amount = 2;
+}
+
+message AddBalanceResponse {
+    int32 err_code = 1;
+    string text = 2;
+}
+
+message AmountTransferRequest {
+    string receiver_username = 1;
+    string sender_username = 2;
+    int32 receiver_bank_id = 3;
+    int32 sender_bank_id = 4;
+    string receiver_acc_no = 5;
+    string sender_acc_no = 6;
+    float amount = 7;
+    string type = 8;
+}
+
+message AmountTransferResponse {
+    int32 err_code = 1;
+    string text = 2;
+    float balance = 3;
+}
+
+message CheckClientExistRequest {
+    string username = 1;
+    string acc_no = 2;
+}
+
+message CheckClientExistResponse {
+    int32 err_code = 1;
+    string text = 2;
+}
+
+message TransactionsRequest {
+    string username = 1;
+}
+
+message TransactionsResponse {
+    int32 err_code = 1;
+    string text = 2;
+    repeated string transactions = 3;
+}

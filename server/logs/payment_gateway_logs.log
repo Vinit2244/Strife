@@ -1,0 +1,524 @@
+2025-04-19 15:41:16,315 - INFO - Received request: /paymentgateway.PaymentGateway/RegisterBank
+2025-04-19 15:41:16,316 - INFO - Session Token: bank, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:41:16,318 - INFO - Reply: Bank successfully registered
+2025-04-19 15:41:34,336 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:41:34,336 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:41:34,337 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:41:36,782 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:41:36,782 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:41:36,784 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:41:40,980 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:41:40,980 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:41:40,982 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:41:49,969 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:41:49,970 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:41:49,972 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:42:06,502 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:42:06,503 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:42:06,505 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:42:26,455 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:42:26,455 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:42:26,456 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:42:28,926 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:42:28,926 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:42:28,927 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:42:33,624 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:42:33,625 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:42:33,626 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:42:39,474 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:42:39,475 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:42:39,476 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:42:41,913 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:42:41,913 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:42:41,914 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:44:44,163 - INFO - Received request: /paymentgateway.PaymentGateway/RegisterBank
+2025-04-19 15:44:44,164 - INFO - Session Token: bank, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:44:44,165 - INFO - Reply: Bank successfully registered
+2025-04-19 15:44:49,095 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:44:49,095 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:44:49,097 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:44:51,691 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:44:51,691 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:44:51,692 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:44:56,285 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:44:56,285 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:44:56,286 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:45:26,330 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:45:26,330 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:45:26,332 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:45:29,308 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:45:29,309 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:45:29,310 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:45:34,181 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:45:34,181 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:45:34,182 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:46:02,098 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:46:02,099 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:46:02,100 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:46:04,828 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:46:04,828 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:46:04,829 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:46:09,568 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:46:09,569 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:46:09,570 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:46:18,214 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:46:18,214 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:46:18,215 - INFO - Reply: 
+2025-04-19 15:46:27,493 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 15:46:27,493 - INFO - Session Token: d5547df6-84ca-441b-a939-511729252a69, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:46:27,519 - INFO - Reply: 
+2025-04-19 15:46:41,884 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 15:46:41,885 - INFO - Session Token: d5547df6-84ca-441b-a939-511729252a69, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 200
+2025-04-19 15:46:41,893 - INFO - Reply: 
+2025-04-19 15:47:04,002 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:47:04,002 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:47:04,003 - INFO - Reply: 
+2025-04-19 15:47:11,473 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:47:11,473 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:47:11,474 - INFO - Reply: 
+2025-04-19 15:47:13,673 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:47:13,673 - INFO - Session Token: 20dcf1db-4364-4cac-95f0-d14d8a70a8f5, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:47:13,677 - INFO - Reply: 
+2025-04-19 15:47:15,422 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:47:15,423 - INFO - Session Token: 6cf3e7f2-9489-4974-8dd4-81432120c8d9, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:47:15,428 - INFO - Reply: 
+2025-04-19 15:47:26,653 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:47:26,654 - INFO - Session Token: 20dcf1db-4364-4cac-95f0-d14d8a70a8f5, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:47:26,667 - ERROR - Error in /paymentgateway.PaymentGateway/TransferAmount: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:47:26.667423+05:30"}"
+>
+2025-04-19 15:47:26,667 - ERROR - Exception calling application: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:47:26.667423+05:30"}"
+>
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 84, in wrapped_handler
+    raise e
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 75, in wrapped_handler
+    response = handler.unary_unary(request, servicer_context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 431, in TransferAmount
+    response = bank_stub.Debit(request_obj, timeout=TIMEOUT_S)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1181, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1006, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:47:26.667423+05:30"}"
+>
+2025-04-19 15:47:58,038 - INFO - Received request: /paymentgateway.PaymentGateway/RegisterBank
+2025-04-19 15:47:58,038 - INFO - Session Token: bank, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:47:58,039 - INFO - Reply: Bank successfully registered
+2025-04-19 15:48:04,847 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:48:04,848 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:48:04,849 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:48:07,651 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:48:07,652 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:48:07,652 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:48:11,823 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:48:11,824 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:48:11,825 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:48:15,558 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:48:15,559 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:48:15,560 - INFO - Reply: 
+2025-04-19 15:48:22,129 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 15:48:22,130 - INFO - Session Token: 249b0338-2aa9-4465-b0c2-73040e7a67f7, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:48:22,142 - INFO - Reply: 
+2025-04-19 15:48:32,605 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 15:48:32,605 - INFO - Session Token: 249b0338-2aa9-4465-b0c2-73040e7a67f7, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:48:32,612 - INFO - Reply: 
+2025-04-19 15:48:46,969 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:48:46,969 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:48:46,969 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:48:49,187 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:48:49,187 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:48:49,188 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:48:53,840 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:48:53,840 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:48:53,842 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:48:59,822 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:48:59,823 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:48:59,825 - INFO - Reply: 
+2025-04-19 15:49:06,100 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:49:06,101 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:49:06,102 - INFO - Reply: 
+2025-04-19 15:49:13,474 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:49:13,474 - INFO - Session Token: d74d3af5-eeb9-4dd9-a1ff-71e8785ef5b5, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 50
+2025-04-19 15:49:13,485 - ERROR - Error in /paymentgateway.PaymentGateway/TransferAmount: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-04-19T15:49:13.485118+05:30", grpc_status:2, grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'"}"
+>
+2025-04-19 15:49:13,485 - ERROR - Exception calling application: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-04-19T15:49:13.485118+05:30", grpc_status:2, grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'"}"
+>
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 84, in wrapped_handler
+    raise e
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 75, in wrapped_handler
+    response = handler.unary_unary(request, servicer_context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 431, in TransferAmount
+    response = bank_stub.Debit(request_obj, timeout=TIMEOUT_S)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1181, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1006, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-04-19T15:49:13.485118+05:30", grpc_status:2, grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'"}"
+>
+2025-04-19 15:50:45,568 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:50:45,569 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:50:45,571 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:50:48,500 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:50:48,501 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:50:48,502 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:50:53,303 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:50:53,304 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:50:53,305 - ERROR - Error in response: Authentication Failed
+2025-04-19 15:51:04,327 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:51:04,329 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:51:04,330 - INFO - Reply: 
+2025-04-19 15:51:12,445 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:51:12,445 - INFO - Session Token: e0a44c2a-052c-4b83-b8cb-85b27b4161a1, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 50
+2025-04-19 15:51:12,456 - ERROR - Error in /paymentgateway.PaymentGateway/TransferAmount: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-04-19T15:51:12.456171+05:30", grpc_status:2, grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'"}"
+>
+2025-04-19 15:51:12,456 - ERROR - Exception calling application: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-04-19T15:51:12.456171+05:30", grpc_status:2, grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'"}"
+>
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 84, in wrapped_handler
+    raise e
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 75, in wrapped_handler
+    response = handler.unary_unary(request, servicer_context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 431, in TransferAmount
+    response = bank_stub.Debit(request_obj, timeout=TIMEOUT_S)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1181, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1006, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-04-19T15:51:12.456171+05:30", grpc_status:2, grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'"}"
+>
+2025-04-19 15:51:41,575 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:51:41,576 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:51:41,578 - INFO - Reply: 
+2025-04-19 15:51:48,585 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:51:48,585 - INFO - Session Token: 23801150-0486-4b1d-8785-0c8ee96dfb2d, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 50
+2025-04-19 15:51:48,594 - ERROR - Error in response: Not enough balance in account
+2025-04-19 15:52:18,735 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:52:18,736 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:52:18,737 - INFO - Reply: 
+2025-04-19 15:52:26,322 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:52:26,323 - INFO - Session Token: 2fecfd26-00a0-4b69-bf61-efb8a63052ee, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 50
+2025-04-19 15:52:26,332 - ERROR - Error in response: Not enough balance in account
+2025-04-19 15:52:34,488 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:52:34,489 - INFO - Session Token: 2fecfd26-00a0-4b69-bf61-efb8a63052ee, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:52:34,494 - INFO - Reply: 
+2025-04-19 15:52:38,278 - INFO - Received request: /paymentgateway.PaymentGateway/GetTransactionHistory
+2025-04-19 15:52:38,278 - INFO - Session Token: 2fecfd26-00a0-4b69-bf61-efb8a63052ee, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:52:38,282 - INFO - Reply: 
+2025-04-19 15:52:41,097 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:52:41,097 - INFO - Session Token: 22d7db4d-7df8-480c-8270-bf9fc27ccfa7, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:52:41,102 - INFO - Reply: 
+2025-04-19 15:52:49,345 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:52:49,345 - INFO - Session Token: 22d7db4d-7df8-480c-8270-bf9fc27ccfa7, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: 50
+2025-04-19 15:52:49,355 - ERROR - Error in /paymentgateway.PaymentGateway/TransferAmount: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:52:49.355177+05:30"}"
+>
+2025-04-19 15:52:49,355 - ERROR - Exception calling application: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:52:49.355177+05:30"}"
+>
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 84, in wrapped_handler
+    raise e
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 75, in wrapped_handler
+    response = handler.unary_unary(request, servicer_context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 431, in TransferAmount
+    response = bank_stub.Debit(request_obj, timeout=TIMEOUT_S)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1181, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1006, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:52:49.355177+05:30"}"
+>
+2025-04-19 15:52:52,318 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:52:52,318 - INFO - Session Token: 2fecfd26-00a0-4b69-bf61-efb8a63052ee, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:52:52,323 - INFO - Reply: 
+2025-04-19 15:53:08,726 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:53:08,726 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:53:08,728 - INFO - Reply: 
+2025-04-19 15:53:09,877 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:53:09,878 - INFO - Session Token: 91877a6c-0de4-47c6-a234-6420ab9144ea, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:53:09,883 - INFO - Reply: 
+2025-04-19 15:53:25,229 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:53:25,230 - INFO - Session Token: 91877a6c-0de4-47c6-a234-6420ab9144ea, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: 10
+2025-04-19 15:53:25,239 - ERROR - Error in /paymentgateway.PaymentGateway/TransferAmount: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:53:25.239185+05:30"}"
+>
+2025-04-19 15:53:25,239 - ERROR - Exception calling application: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:53:25.239185+05:30"}"
+>
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 84, in wrapped_handler
+    raise e
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 75, in wrapped_handler
+    response = handler.unary_unary(request, servicer_context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 431, in TransferAmount
+    response = bank_stub.Debit(request_obj, timeout=TIMEOUT_S)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1181, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1006, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:53:25.239185+05:30"}"
+>
+2025-04-19 15:54:18,304 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:54:18,305 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:54:18,308 - INFO - Reply: 
+2025-04-19 15:54:19,705 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:54:19,706 - INFO - Session Token: 2609fe28-b621-4e7a-b833-235abc46b57b, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:54:19,714 - INFO - Reply: 
+2025-04-19 15:54:25,248 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:54:25,248 - INFO - Session Token: 2609fe28-b621-4e7a-b833-235abc46b57b, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: 1
+2025-04-19 15:54:25,261 - ERROR - Error in /paymentgateway.PaymentGateway/TransferAmount: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:54:25.259999+05:30"}"
+>
+2025-04-19 15:54:25,262 - ERROR - Exception calling application: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:54:25.259999+05:30"}"
+>
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 84, in wrapped_handler
+    raise e
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 75, in wrapped_handler
+    response = handler.unary_unary(request, servicer_context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 431, in TransferAmount
+    response = bank_stub.Debit(request_obj, timeout=TIMEOUT_S)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1181, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1006, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'", grpc_status:2, created_time:"2025-04-19T15:54:25.259999+05:30"}"
+>
+2025-04-19 15:56:10,759 - INFO - Received request: /paymentgateway.PaymentGateway/RegisterBank
+2025-04-19 15:56:10,760 - INFO - Session Token: bank, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:56:10,761 - INFO - Reply: Bank successfully registered
+2025-04-19 15:56:14,798 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:56:14,798 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:56:14,799 - INFO - Reply: 
+2025-04-19 15:56:21,579 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 15:56:21,579 - INFO - Session Token: 6c09aefc-8284-40eb-8c12-baa893c14946, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:56:21,592 - INFO - Reply: 
+2025-04-19 15:56:29,986 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 15:56:29,988 - INFO - Session Token: 6c09aefc-8284-40eb-8c12-baa893c14946, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:56:29,995 - INFO - Reply: 
+2025-04-19 15:56:39,886 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:56:39,888 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:56:39,889 - INFO - Reply: 
+2025-04-19 15:56:45,531 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:56:45,531 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:56:45,532 - INFO - Reply: 
+2025-04-19 15:56:47,554 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:56:47,555 - INFO - Session Token: ea19eef2-9cd4-4d35-a6bf-124004e1885d, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:56:47,560 - INFO - Reply: 
+2025-04-19 15:56:48,954 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:56:48,954 - INFO - Session Token: a021c49f-ffe4-4c55-bff5-45ab2fa0f9a8, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:56:48,959 - INFO - Reply: 
+2025-04-19 15:56:57,987 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:56:57,988 - INFO - Session Token: ea19eef2-9cd4-4d35-a6bf-124004e1885d, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 1
+2025-04-19 15:56:58,002 - ERROR - Error in /paymentgateway.PaymentGateway/TransferAmount: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-04-19T15:56:57.999917+05:30", grpc_status:2, grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'"}"
+>
+2025-04-19 15:56:58,002 - ERROR - Exception calling application: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-04-19T15:56:57.999917+05:30", grpc_status:2, grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'"}"
+>
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 85, in wrapped_handler
+    raise e
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 76, in wrapped_handler
+    response = handler.unary_unary(request, servicer_context)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/payment_gateway.py", line 432, in TransferAmount
+    response = bank_stub.Debit(request_obj, timeout=TIMEOUT_S)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1181, in __call__
+    return _end_unary_response_blocking(state, call, False, None)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_channel.py", line 1006, in _end_unary_response_blocking
+    raise _InactiveRpcError(state)  # pytype: disable=not-instantiable
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+grpc._channel._InactiveRpcError: <_InactiveRpcError of RPC that terminated with:
+	status = StatusCode.UNKNOWN
+	details = "Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'"
+	debug_error_string = "UNKNOWN:Error received from peer  {created_time:"2025-04-19T15:56:57.999917+05:30", grpc_status:2, grpc_message:"Exception calling application: type object \'datetime.datetime\' has no attribute \'datetime\'"}"
+>
+2025-04-19 15:58:47,090 - INFO - Received request: /paymentgateway.PaymentGateway/RegisterBank
+2025-04-19 15:58:47,090 - INFO - Session Token: bank, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:58:47,091 - INFO - Reply: Bank successfully registered
+2025-04-19 15:58:57,903 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:58:57,904 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:58:57,905 - INFO - Reply: 
+2025-04-19 15:59:03,319 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 15:59:03,319 - INFO - Session Token: 73fedf51-28f6-454c-94c6-fe9caf14096d, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:59:03,332 - INFO - Reply: 
+2025-04-19 15:59:09,058 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 15:59:09,059 - INFO - Session Token: 73fedf51-28f6-454c-94c6-fe9caf14096d, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:59:09,069 - INFO - Reply: 
+2025-04-19 15:59:17,527 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:59:17,527 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:59:17,528 - INFO - Reply: 
+2025-04-19 15:59:22,559 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 15:59:22,559 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 15:59:22,560 - INFO - Reply: 
+2025-04-19 15:59:24,996 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:59:24,996 - INFO - Session Token: 3d8a210e-9d7c-44ce-83cc-0fbe49fcb4db, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:59:25,001 - INFO - Reply: 
+2025-04-19 15:59:31,387 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 15:59:31,388 - INFO - Session Token: 3d8a210e-9d7c-44ce-83cc-0fbe49fcb4db, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 1
+2025-04-19 15:59:31,396 - INFO - Reply: Amount Credited
+2025-04-19 15:59:48,583 - INFO - Received request: /paymentgateway.PaymentGateway/Deposit
+2025-04-19 15:59:48,584 - INFO - Session Token: 3d8a210e-9d7c-44ce-83cc-0fbe49fcb4db, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:59:48,594 - INFO - Reply: Amount Credited
+2025-04-19 15:59:50,390 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:59:50,390 - INFO - Session Token: 3d8a210e-9d7c-44ce-83cc-0fbe49fcb4db, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:59:50,394 - INFO - Reply: 
+2025-04-19 15:59:54,895 - INFO - Received request: /paymentgateway.PaymentGateway/Withdraw
+2025-04-19 15:59:54,895 - INFO - Session Token: 3d8a210e-9d7c-44ce-83cc-0fbe49fcb4db, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 15:59:54,900 - INFO - Reply: Amount Debited
+2025-04-19 15:59:57,739 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 15:59:57,740 - INFO - Session Token: 3d8a210e-9d7c-44ce-83cc-0fbe49fcb4db, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:59:57,744 - INFO - Reply: 
+2025-04-19 15:59:59,964 - INFO - Received request: /paymentgateway.PaymentGateway/GetTransactionHistory
+2025-04-19 15:59:59,964 - INFO - Session Token: 3d8a210e-9d7c-44ce-83cc-0fbe49fcb4db, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 15:59:59,967 - INFO - Reply: 
+2025-04-19 16:00:06,805 - INFO - Received request: /paymentgateway.PaymentGateway/GetTransactionHistory
+2025-04-19 16:00:06,806 - INFO - Session Token: 88f02c25-31ba-4de2-9beb-1c6e569043b5, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 16:00:06,810 - INFO - Reply: 
+2025-04-19 16:00:13,316 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 16:00:13,316 - INFO - Session Token: 88f02c25-31ba-4de2-9beb-1c6e569043b5, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 16:00:13,324 - INFO - Reply: Amount Credited
+2025-04-19 16:00:15,187 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 16:00:15,188 - INFO - Session Token: 88f02c25-31ba-4de2-9beb-1c6e569043b5, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 16:00:15,192 - INFO - Reply: 
+2025-04-19 16:00:18,252 - INFO - Received request: /paymentgateway.PaymentGateway/GetTransactionHistory
+2025-04-19 16:00:18,252 - INFO - Session Token: 88f02c25-31ba-4de2-9beb-1c6e569043b5, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 16:00:18,255 - INFO - Reply: 
+2025-04-19 17:04:38,504 - INFO - Received request: /paymentgateway.PaymentGateway/RegisterBank
+2025-04-19 17:04:38,506 - INFO - Session Token: bank, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 17:04:38,507 - INFO - Reply: Bank successfully registered
+2025-04-19 17:04:51,296 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 17:04:51,296 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 17:04:51,297 - INFO - Reply: 
+2025-04-19 17:06:10,178 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 17:06:10,179 - INFO - Session Token: 056ca76d-5e12-40b4-b16f-69cd38a8554b, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 100
+2025-04-19 17:06:10,193 - INFO - Reply: 
+2025-04-19 17:06:19,508 - INFO - Received request: /paymentgateway.PaymentGateway/AdminAccessCreateNewClient
+2025-04-19 17:06:19,508 - INFO - Session Token: 056ca76d-5e12-40b4-b16f-69cd38a8554b, Role: admin, Username: admin Client IP: Unknown IP, Transaction Amount: 200
+2025-04-19 17:06:19,515 - INFO - Reply: 
+2025-04-19 17:06:32,018 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 17:06:32,019 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 17:06:32,020 - INFO - Reply: 
+2025-04-19 17:06:37,147 - INFO - Received request: /paymentgateway.PaymentGateway/Authenticate
+2025-04-19 17:06:37,147 - INFO - Session Token: auth, Role: Unknown, Username: Unknown Client IP: 14.139.82.6, Transaction Amount: 0
+2025-04-19 17:06:37,148 - INFO - Reply: 
+2025-04-19 17:07:50,255 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 17:07:50,257 - INFO - Session Token: 4cedd277-1c23-4971-b2a7-f327047b0b91, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 17:07:50,260 - INFO - Reply: 
+2025-04-19 17:07:51,898 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 17:07:51,899 - INFO - Session Token: 6c556eb0-c99e-49d7-973b-7745f82f2b4f, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 17:07:51,904 - INFO - Reply: 
+2025-04-19 17:07:59,871 - INFO - Received request: /paymentgateway.PaymentGateway/Withdraw
+2025-04-19 17:07:59,871 - INFO - Session Token: 4cedd277-1c23-4971-b2a7-f327047b0b91, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 300
+2025-04-19 17:07:59,875 - ERROR - Error in response: Not enough balance in account
+2025-04-19 17:08:17,095 - INFO - Received request: /paymentgateway.PaymentGateway/TransferAmount
+2025-04-19 17:08:17,096 - INFO - Session Token: 4cedd277-1c23-4971-b2a7-f327047b0b91, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: 50
+2025-04-19 17:08:17,103 - INFO - Reply: Amount Credited
+2025-04-19 17:08:19,929 - INFO - Received request: /paymentgateway.PaymentGateway/GetTransactionHistory
+2025-04-19 17:08:19,929 - INFO - Session Token: 4cedd277-1c23-4971-b2a7-f327047b0b91, Role: client, Username: vinit Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 17:08:19,934 - INFO - Reply: 
+2025-04-19 17:08:23,147 - INFO - Received request: /paymentgateway.PaymentGateway/CheckBalance
+2025-04-19 17:08:23,147 - INFO - Session Token: 6c556eb0-c99e-49d7-973b-7745f82f2b4f, Role: client, Username: ayush Client IP: Unknown IP, Transaction Amount: N/A
+2025-04-19 17:08:23,152 - INFO - Reply: 

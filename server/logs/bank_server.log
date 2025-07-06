@@ -1,0 +1,63 @@
+2025-04-19 15:47:26,660 - ERROR - Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/bank_server.py", line 234, in Debit
+    now = datetime.datetime.now()
+          ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-19 15:49:13,479 - ERROR - Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/bank_server.py", line 234, in Debit
+    now = datetime.datetime.now()
+          ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-19 15:51:12,453 - ERROR - Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/bank_server.py", line 234, in Debit
+    now = datetime.datetime.now()
+          ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-19 15:52:49,351 - ERROR - Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/bank_server.py", line 234, in Debit
+    now = datetime.datetime.now()
+          ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-19 15:53:25,236 - ERROR - Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/bank_server.py", line 234, in Debit
+    now = datetime.datetime.now()
+          ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-19 15:54:25,256 - ERROR - Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/bank_server.py", line 234, in Debit
+    now = datetime.datetime.now()
+          ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'datetime'
+2025-04-19 15:56:57,994 - ERROR - Exception calling application: type object 'datetime.datetime' has no attribute 'datetime'
+Traceback (most recent call last):
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/ds_env/lib/python3.12/site-packages/grpc/_server.py", line 610, in _call_behavior
+    response_or_iterator = behavior(argument, context)
+                           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/vinitmehta/Desktop/IIITH/Sem6/DS/Assignments and Project/A2/Q3/server/bank_server.py", line 234, in Debit
+    now = datetime.datetime.now()
+          ^^^^^^^^^^^^^^^^^
+AttributeError: type object 'datetime.datetime' has no attribute 'datetime'

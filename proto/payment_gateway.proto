@@ -1,0 +1,106 @@
+syntax = "proto3";
+
+package paymentgateway;
+
+service PaymentGateway {
+    rpc Authenticate(AuthRequest) returns (AuthResponse);
+    rpc RegisterClient(RegisterClientRequest) returns (RegisterClientResponse);
+    rpc RegisterBank(RegisterBankRequest) returns (RegisterBankResponse);
+    rpc CheckBalance(CheckBalanceRequest) returns (CheckBalanceResponse);
+    rpc AdminAccessCreateNewClient(CreateNewClientRequest) returns (CreateNewClientResponse);
+    rpc AdminAccessAddBalance(AddBalanceRequest) returns (AddBalanceResponse);
+    rpc TransferAmount(TransferAmountRequest) returns (TransferAmountResponse);
+    rpc Deposit(TransferAmountRequest) returns (TransferAmountResponse);
+    rpc Withdraw(TransferAmountRequest) returns (TransferAmountResponse);
+    rpc GetTransactionHistory(TransactionHistoryRequest) returns (TransactionHistoryResponse);
+}
+
+message AuthRequest {
+    string username = 1;
+    string password = 2;
+}
+
+message AuthResponse {
+    int32 err_code = 1;
+    string text = 2;
+    string role = 3;
+}
+
+message CreateNewClientRequest {
+    string admin_username = 1;
+    string admin_password = 2;
+    string new_client_username = 3;
+    string new_client_password = 4;
+    int32 new_client_bank_id = 5;
+    float initial_balance = 6;
+}
+
+message CreateNewClientResponse {
+    int32 err_code = 1; // 0 = Registered successfully (Check account number field for value) / 1 = Some error occured (Check text field for details)
+    string text = 2;    // Error Message / Success Message
+    string account_number = 3;
+}
+
+message RegisterClientRequest {
+    string username = 1;
+    string account_number = 2;
+    string password = 3;
+    int32 bank_id = 4;
+}
+
+message RegisterClientResponse {
+    int32 err_code = 1; // 0 = Registered successfully / 1 = Some error occured (Check text field for details)
+    string text = 2;    // Error Message / Success Message
+}
+
+message RegisterBankRequest {
+    int32 port = 1;
+}
+
+message RegisterBankResponse {
+    int32 err_code = 1; // 0 = Processed successfully (check id field for value) / 1 = Some error occured (Check text field for details)
+    string text = 2;
+    int32 id = 3;
+}
+
+message CheckBalanceRequest {}
+
+
+message CheckBalanceResponse {
+    int32 err_code = 1; // 0 = Processed successfully (check balance field for value) / 1 = Some error occured (Check text field for details)
+    string text = 2;    // Error message / Success message
+    float balance = 3;  // If successfully processed then this field will be set to the balance value
+}
+
+message AddBalanceRequest {
+    string username = 1;
+    float amount = 2;
+}
+
+message AddBalanceResponse {
+    int32 err_code = 1;
+    string text = 2;
+}
+
+message TransferAmountRequest {
+    string receiver_username = 1;
+    int32 receiver_bank_id = 2;
+    string receiver_acc_no = 3;
+    float amount = 4;
+    string type = 5;
+}
+
+message TransferAmountResponse {
+    int32 err_code = 1;
+    string text = 2;
+    float balance = 3;
+}
+
+message TransactionHistoryRequest {}
+
+
+message TransactionHistoryResponse {
+    int32 err_code = 1;
+    string text = 2;
+    repeated string transactions = 3;
+}
