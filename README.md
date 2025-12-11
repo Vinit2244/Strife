@@ -1,4 +1,4 @@
-# 🏦 Secure Banking System with Payment Gateway
+# Secure Banking System with Payment Gateway
 
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 [![gRPC](https://img.shields.io/badge/gRPC-Protocol%20Buffers-blue)](https://grpc.io/)
@@ -6,7 +6,7 @@
 
 A distributed banking system that uses gRPC for communication between clients, a payment gateway, and multiple bank servers. The system includes secure authentication and transaction mechanisms.
 
-## 📋 Features
+## Features
 
 - ✅ Multi-bank architecture with a centralized payment gateway
 - ✅ Secure client authentication with username/password
@@ -17,7 +17,7 @@ A distributed banking system that uses gRPC for communication between clients, a
 - ✅ Unique client identification with error handling
 - ✅ Persistent session management for clients
 
-## 🛠️ Requirements
+## Requirements
 
 ```
 grpcio
@@ -25,7 +25,7 @@ grpcio-tools
 loguru
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Step 1: Compile Protocol Buffers
 
@@ -57,7 +57,7 @@ You can start multiple bank servers with different IDs and ports.
 make run_client
 ```
 
-## 🔐 Security Features
+## Security Features
 
 The system includes SSL/TLS support with custom certificates. The repository includes a Certificate Authority (CA) setup for generating and signing certificates.
 
@@ -81,7 +81,7 @@ openssl x509 -req -in server.csr -CA ../CA/ca.crt -CAkey ../CA/ca.key \
   -CAcreateserial -out server.crt -days 365 -sha256 -extfile server.cnf -extensions req_ext
 ```
 
-## 🔍 System Assumptions
+## System Assumptions
 
 - Each bank has a unique ID and clients refer to banks by their IDs
 - The admin user has the account number 0, username "admin", and password "1234"
@@ -92,7 +92,7 @@ openssl x509 -req -in server.csr -CA ../CA/ca.crt -CAkey ../CA/ca.key \
 - Payment gateway opens channels with banks on a per-request basis for efficiency
 - Client sessions remain open until termination to avoid repeated authentication
 
-## 🏛️ Architecture
+## Architecture
 
 ```
 ┌─────────┐     ┌───────────────────┐     ┌────────────┐
@@ -108,7 +108,7 @@ openssl x509 -req -in server.csr -CA ../CA/ca.crt -CAkey ../CA/ca.key \
 └─────────┘     └───────────────────┘     └────────────┘
 ```
 
-## 📝 Implementation Notes
+## Implementation Notes
 
 - Payment gateway serves as the central hub for all client-bank interactions
 - Admin user can create new accounts for clients
@@ -116,11 +116,7 @@ openssl x509 -req -in server.csr -CA ../CA/ca.crt -CAkey ../CA/ca.key \
 - When transferring funds, complete receiver information is required to ensure accuracy
 - The system uses gRPC for efficient, typed communication between components
 
-## 🤝 Credits
-
-Created as part of a Distributed Systems assignment at IIIT Hyderabad.
-
-## 📚 References
+## References
 
 Original implementation prompts:
 - [ChatGPT Prompt 1](https://chatgpt.com/share/67cc4469-dec4-8007-8f77-d5d0e46eaeb3)
