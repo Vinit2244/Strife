@@ -96,15 +96,15 @@ openssl x509 -req -in server.csr -CA ../CA/ca.crt -CAkey ../CA/ca.key \
 
 ```
 ┌─────────┐     ┌───────────────────┐     ┌────────────┐
-│ Client 1│────▶ Payment Gateway   │────▶│ Bank 1     │
+│ Client 1│────▶   Payment Gateway  │────▶│ Bank 1     │
 └─────────┘     │                   │     └────────────┘
                 │  - Authentication │      
 ┌─────────┐     │  - Routing        │     ┌────────────┐
-│ Client 2│────▶  - Security       │────▶│ Bank 2     │
+│ Client 2│────▶   - Security       │────▶│ Bank 2     │
 └─────────┘     │  - Admin          │     └────────────┘
-                │    Functions      │      
+                │   Functions       │      
 ┌─────────┐     │                   │     ┌────────────┐
-│ Admin   │────▶                   │────▶│ Bank 3     │
+│ Admin   │────▶                    │────▶│ Bank 3     │
 └─────────┘     └───────────────────┘     └────────────┘
 ```
 
